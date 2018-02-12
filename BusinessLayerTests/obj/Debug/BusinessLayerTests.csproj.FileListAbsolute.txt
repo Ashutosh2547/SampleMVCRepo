@@ -1,0 +1,16 @@
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayerTests\bin\Debug\BusinessLayerTests.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayerTests\bin\Debug\BusinessLayerTests.pdb
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayerTests\bin\Debug\BusinessLayer.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayerTests\bin\Debug\BusinessLayer.pdb
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayerTests\obj\Debug\BusinessLayerTests.csprojResolveAssemblyReference.cache
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayerTests\obj\Debug\BusinessLayerTests.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayerTests\obj\Debug\BusinessLayerTests.pdb
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayerTests\bin\Debug\BusinessLayerTests.dll
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayerTests\bin\Debug\BusinessLayerTests.pdb
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayerTests\bin\Debug\BusinessLayer.dll
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayerTests\bin\Debug\BusinessLayer.pdb
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayerTests\obj\Debug\BusinessLayerTests.csprojResolveAssemblyReference.cache
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayerTests\obj\Debug\BusinessLayerTests.dll
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayerTests\obj\Debug\BusinessLayerTests.pdb

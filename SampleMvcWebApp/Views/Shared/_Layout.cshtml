@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Sample Webapp</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <header class="navbar-fixed-top" style="background: white">
+        <div class="container-fluid ">
+            <div class="row">
+                <div class="col-sm-6" style="padding-top: 20px;">
+                    <img src="/Resources/Images/nagarro_logo.PNG" alt="Nagarro Intranet">
+                </div>
+                <div class="col-sm-6 text-right">
+                    <img height="15%" width="15%" src="/Resources/Images/DevOpsCOE_Logo.png" alt="Nagarro DevOps">
+                </div>
+            </div>
+        </div>
+        <div class="page-dashboard page-dashboard-custom" style="height:90px; background: #105d98">
+            <div class="container" style="background-image:url(/Resources/Images//bg1.png);">
+                <h1 style="text-align:center">@ViewBag.Heading</h1>
+            </div>
+        </div>
+    </header>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

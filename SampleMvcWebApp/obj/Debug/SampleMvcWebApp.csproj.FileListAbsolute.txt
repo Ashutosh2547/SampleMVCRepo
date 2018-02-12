@@ -1,0 +1,80 @@
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\ApplicationInsights.config
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\csc.exe
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\vbc.exe
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\SampleMvcWebApp.dll.config
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\SampleMvcWebApp.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\SampleMvcWebApp.pdb
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Helpers.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Mvc.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Razor.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.Razor.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Razor.xml
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.xml
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.Razor.xml
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Helpers.xml
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Mvc.xml
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\obj\Debug\SampleMvcWebApp.csprojResolveAssemblyReference.cache
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\obj\Debug\SampleMvcWebApp.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\obj\Debug\SampleMvcWebApp.pdb
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\Resources\Images\bg1.png
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\Resources\Images\DevOpsCOE_Logo.png
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\Resources\Images\helloWorld.jpg
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\Resources\Images\nagarro_logo.png
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\BusinessLayer.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleMvcWebApp\SampleMvcWebApp\bin\BusinessLayer.pdb
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\ApplicationInsights.config
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\csc.exe
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\System.Collections.Immutable.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\vbc.exe
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\VBCSCompiler.exe
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\roslyn\VBCSCompiler.exe.config
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\Resources\Images\bg1.png
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\Resources\Images\DevOpsCOE_Logo.png
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\Resources\Images\helloWorld.jpg
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\Resources\Images\nagarro_logo.png
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\SampleMvcWebApp.dll.config
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\SampleMvcWebApp.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\SampleMvcWebApp.pdb
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\BusinessLayer.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Helpers.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Mvc.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Razor.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.Deployment.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.Razor.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\BusinessLayer.pdb
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Razor.xml
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.xml
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.Deployment.xml
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Webpages.Razor.xml
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Helpers.xml
+F:\SampleMvcWebApp\SampleMvcWebApp\bin\System.Web.Mvc.xml
+F:\SampleMvcWebApp\SampleMvcWebApp\obj\Debug\SampleMvcWebApp.csprojResolveAssemblyReference.cache
+F:\SampleMvcWebApp\SampleMvcWebApp\obj\Debug\SampleMvcWebApp.dll
+F:\SampleMvcWebApp\SampleMvcWebApp\obj\Debug\SampleMvcWebApp.pdb

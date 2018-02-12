@@ -1,0 +1,9 @@
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\ashutosh2547\documents\visual studio 2015\Projects\SampleWebApp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ashutosh2547\Documents\Visual Studio 2015\Projects\SampleMvcWebApp\BusinessLayer\obj\Debug\BusinessLayer.pdb
